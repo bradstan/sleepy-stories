@@ -1,22 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>夜航船 · 睡前故事</title>
+    <title>给大人的入睡故事</title>
     <link>https://bradstan.github.io/sleepy-stories</link>
     <atom:link href="https://bradstan.github.io/sleepy-stories/feed.xml" rel="self" type="application/rss+xml" />
     <language>zh-cn</language>
-    <copyright>© 2026 夜航船</copyright>
-    <description>成年人专属睡前故事。短篇科幻，多角色沉浸式朗读。关灯，闭眼，掉进另一个世界。</description>
+    <copyright>© 2026 给大人的入睡故事</copyright>
+    <description>成年人的睡前科幻故事。关灯，闭眼，掉进另一个世界。</description>
     <lastBuildDate>Thu, 30 Apr 2026 21:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://bradstan.github.io/sleepy-stories/cover.jpg</url>
+      <title>给大人的入睡故事</title>
+      <link>https://bradstan.github.io/sleepy-stories</link>
+    </image>
     <itunes:type>episodic</itunes:type>
-    <itunes:author>夜航船</itunes:author>
-    <itunes:summary>成年人专属睡前故事。短篇科幻，多角色沉浸式朗读。关灯，闭眼，掉进另一个世界。</itunes:summary>
+    <itunes:author>给大人的入睡故事</itunes:author>
+    <itunes:summary>成年人的睡前科幻故事。关灯，闭眼，掉进另一个世界。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://bradstan.github.io/sleepy-stories/cover.jpg" />
     <itunes:category text="Fiction">
       <itunes:category text="Science Fiction" />
     </itunes:category>
     <itunes:owner>
-      <itunes:name>夜航船</itunes:name>
+      <itunes:name>给大人的入睡故事</itunes:name>
       <itunes:email>imqyqy@gmail.com</itunes:email>
     </itunes:owner>
     <item>
@@ -35,7 +41,7 @@
       <pubDate>Thu, 30 Apr 2026 21:00:00 +0800</pubDate>
       <guid isPermaLink="false">sleepy-stories-001</guid>
       <enclosure url="https://bradstan.github.io/sleepy-stories/ep001-dai-ta-de-yanjing.mp3" length="13274253" type="audio/mpeg" />
-      <itunes:author>夜航船</itunes:author>
+      <itunes:author>给大人的入睡故事</itunes:author>
       <itunes:title>《带上她的眼睛》 — 刘慈欣</itunes:title>
       <itunes:summary>人类使用地层飞船深入地球内部探险，一艘名为「落日六号」的飞船发生事故，沉入地心无法返回。地面只留下一位年轻女领航员——带上她的眼睛，替她看这世界最后一眼。三音色多角色沉浸朗读。</itunes:summary>
       <itunes:duration>00:27:42</itunes:duration>
