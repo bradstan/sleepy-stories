@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>夜航船 · 睡前故事</title>
+    <link>https://bradstan.github.io/sleepy-stories</link>
+    <atom:link href="https://bradstan.github.io/sleepy-stories/feed.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <copyright>© 2026 夜航船</copyright>
+    <description>成年人专属睡前故事。短篇科幻，多角色沉浸式朗读。关灯，闭眼，掉进另一个世界。</description>
+    <lastBuildDate>Thu, 30 Apr 2026 21:00:00 +0800</lastBuildDate>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>夜航船</itunes:author>
+    <itunes:summary>成年人专属睡前故事。短篇科幻，多角色沉浸式朗读。关灯，闭眼，掉进另一个世界。</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Fiction">
+      <itunes:category text="Science Fiction" />
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>夜航船</itunes:name>
+      <itunes:email>imqyqy@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>《带上她的眼睛》 — 刘慈欣</title>
+      <description>
+&lt;p&gt;人类使用地层飞船深入地球内部探险，一艘名为「落日六号」的飞船发生事故，沉入地心无法返回。地面只留下一位年轻女领航员，通过一副传感眼镜，将她的视觉与听觉传回地面，让每个带上它的人，都能替她看这世界最后一眼。&lt;/p&gt;
+
+&lt;p&gt;🎙 三音色沉浸朗读：&lt;br&gt;
+渊博小叔 — 旁白 &amp; 「我」&lt;br&gt;
+知性灿灿 — 女领航员「她」&lt;br&gt;
+霸气青叔 — 主任&lt;/p&gt;
+
+&lt;p&gt;⏱ 时长：27分42秒&lt;br&gt;
+📖 来源：刘慈欣短篇科幻&lt;/p&gt;
+</description>
+      <pubDate>Thu, 30 Apr 2026 21:00:00 +0800</pubDate>
+      <guid isPermaLink="false">sleepy-stories-001</guid>
+      <enclosure url="https://bradstan.github.io/sleepy-stories/ep001-dai-ta-de-yanjing.mp3" length="13274253" type="audio/mpeg" />
+      <itunes:author>夜航船</itunes:author>
+      <itunes:title>《带上她的眼睛》 — 刘慈欣</itunes:title>
+      <itunes:summary>人类使用地层飞船深入地球内部探险，一艘名为「落日六号」的飞船发生事故，沉入地心无法返回。地面只留下一位年轻女领航员——带上她的眼睛，替她看这世界最后一眼。三音色多角色沉浸朗读。</itunes:summary>
+      <itunes:duration>00:27:42</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
