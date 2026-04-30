@@ -6,7 +6,7 @@
     <atom:link href="https://bradstan.github.io/sleepy-stories/feed.xml" rel="self" type="application/rss+xml" />
     <language>zh-cn</language>
     <copyright>© 2026 给大人的入睡故事</copyright>
-    <description>成年人的睡前科幻故事。关灯，闭眼，掉进另一个世界。</description>
+    <description>成年人的睡前故事。短篇小说，多角色沉浸式朗读。关灯，闭眼，掉进另一个世界。</description>
     <lastBuildDate>Thu, 30 Apr 2026 21:00:00 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/sleepy-stories/cover.jpg</url>
@@ -15,7 +15,7 @@
     </image>
     <itunes:type>episodic</itunes:type>
     <itunes:author>给大人的入睡故事</itunes:author>
-    <itunes:summary>成年人的睡前科幻故事。关灯，闭眼，掉进另一个世界。</itunes:summary>
+    <itunes:summary>成年人的睡前故事。短篇小说，多角色沉浸式朗读。关灯，闭眼，掉进另一个世界。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://bradstan.github.io/sleepy-stories/cover.jpg" />
     <itunes:category text="Fiction">
